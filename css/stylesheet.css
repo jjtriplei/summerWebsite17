@@ -1,0 +1,67 @@
+/*html body {
+	margin: 0px;
+	margin-top: 0px;
+	padding: 0px;
+	padding-top: 0px;
+
+}
+
+* {
+	border: 0;
+	margin-bottom: 0;
+	padding: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+html {
+	background-color: black;
+}
+
+.boxSizing {
+	box-sizing: border-box;
+}
+
+#userBar {
+	background-color: #00235b;
+	border-style: solid;
+	border-color: #e0e0e0;
+	border-width: 1px 0px 1px 0px;
+	height: 50px;
+	width: 100%;
+	min-width: 1425px;
+	padding: 0px;
+	top: 0;
+	left: 0;
+}
+
+#userBarNav {
+	display: inline-block;
+	margin: auto;
+	min-width: 100px;
+	height: 100%;
+	top: 0;
+}
+
+.userBarNavButton {
+	display: inline-block;
+	height: 50px;
+	color: #e0e0e0;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.isLeft {
+	border-right: 1px solid #e0e0e0;
+
+}
+
+#jumbotrom {
+	width: 1425px;
+	height: 420px;
+}
+
+#content {
+	color: white;
+}*/
